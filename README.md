@@ -9,5 +9,6 @@
 [![Alt text](https://img.youtube.com/vi/QdZeBOtyjcQ/0.jpg)](https://www.youtube.com/watch?v=QdZeBOtyjcQ)
 ![logo_logia_films](https://user-images.githubusercontent.com/96063818/149510600-faabc23c-c26a-4fc6-b123-58183e9da291.png)
 ![image__5_](https://user-images.githubusercontent.com/96063818/149511153-8bf9a856-f485-43ee-89ee-8d92f6c9060f.png)
+![img_mail](https://user-images.githubusercontent.com/96063818/149753241-71968790-cbc4-4cac-b2b8-169765d3b0b7.png)
 
 
